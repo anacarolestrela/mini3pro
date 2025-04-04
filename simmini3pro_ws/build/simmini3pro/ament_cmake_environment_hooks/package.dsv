@@ -1,0 +1,4 @@
+source;share/simmini3pro/local_setup.bash
+source;share/simmini3pro/local_setup.dsv
+source;share/simmini3pro/local_setup.sh
+source;share/simmini3pro/local_setup.zsh

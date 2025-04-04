@@ -1,0 +1,22 @@
+/home/anacarolina/gazebosims/simmini3pro_ws/install/share/simmini3pro//urdf/mini3prosim.urdf
+/home/anacarolina/gazebosims/simmini3pro_ws/install/share/simmini3pro//meshes/mini3pro.dae
+/home/anacarolina/gazebosims/simmini3pro_ws/install/share/simmini3pro//meshes/mini3pro.stl
+/home/anacarolina/gazebosims/simmini3pro_ws/install/share/simmini3pro//meshes/untitled.dae
+/home/anacarolina/gazebosims/simmini3pro_ws/install/share/simmini3pro//meshes/untitled.stl
+/home/anacarolina/gazebosims/simmini3pro_ws/install/share/simmini3pro//meshes/untitled (copy).dae
+/home/anacarolina/gazebosims/simmini3pro_ws/install/share/simmini3pro//launch/spawn_caixa.launch.py
+/home/anacarolina/gazebosims/simmini3pro_ws/install/share/ament_index/resource_index/package_run_dependencies/simmini3pro
+/home/anacarolina/gazebosims/simmini3pro_ws/install/share/ament_index/resource_index/parent_prefix_path/simmini3pro
+/home/anacarolina/gazebosims/simmini3pro_ws/install/share/simmini3pro/environment/ament_prefix_path.sh
+/home/anacarolina/gazebosims/simmini3pro_ws/install/share/simmini3pro/environment/ament_prefix_path.dsv
+/home/anacarolina/gazebosims/simmini3pro_ws/install/share/simmini3pro/environment/path.sh
+/home/anacarolina/gazebosims/simmini3pro_ws/install/share/simmini3pro/environment/path.dsv
+/home/anacarolina/gazebosims/simmini3pro_ws/install/share/simmini3pro/local_setup.bash
+/home/anacarolina/gazebosims/simmini3pro_ws/install/share/simmini3pro/local_setup.sh
+/home/anacarolina/gazebosims/simmini3pro_ws/install/share/simmini3pro/local_setup.zsh
+/home/anacarolina/gazebosims/simmini3pro_ws/install/share/simmini3pro/local_setup.dsv
+/home/anacarolina/gazebosims/simmini3pro_ws/install/share/simmini3pro/package.dsv
+/home/anacarolina/gazebosims/simmini3pro_ws/install/share/ament_index/resource_index/packages/simmini3pro
+/home/anacarolina/gazebosims/simmini3pro_ws/install/share/simmini3pro/cmake/simmini3proConfig.cmake
+/home/anacarolina/gazebosims/simmini3pro_ws/install/share/simmini3pro/cmake/simmini3proConfig-version.cmake
+/home/anacarolina/gazebosims/simmini3pro_ws/install/share/simmini3pro/package.xml

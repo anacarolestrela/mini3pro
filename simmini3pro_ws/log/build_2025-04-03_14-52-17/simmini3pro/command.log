@@ -1,0 +1,6 @@
+Invoking command in '/home/anacarolina/gazebosims/simmini3pro_ws/build/simmini3pro': /usr/bin/cmake /home/anacarolina/gazebosims/simmini3pro_ws/src/simmini3pro -DCMAKE_INSTALL_PREFIX=/home/anacarolina/gazebosims/simmini3pro_ws/install
+Invoked command in '/home/anacarolina/gazebosims/simmini3pro_ws/build/simmini3pro' returned '0': /usr/bin/cmake /home/anacarolina/gazebosims/simmini3pro_ws/src/simmini3pro -DCMAKE_INSTALL_PREFIX=/home/anacarolina/gazebosims/simmini3pro_ws/install
+Invoking command in '/home/anacarolina/gazebosims/simmini3pro_ws/build/simmini3pro': /usr/bin/cmake --build /home/anacarolina/gazebosims/simmini3pro_ws/build/simmini3pro -- -j8 -l8
+Invoked command in '/home/anacarolina/gazebosims/simmini3pro_ws/build/simmini3pro' returned '0': /usr/bin/cmake --build /home/anacarolina/gazebosims/simmini3pro_ws/build/simmini3pro -- -j8 -l8
+Invoking command in '/home/anacarolina/gazebosims/simmini3pro_ws/build/simmini3pro': /usr/bin/cmake --install /home/anacarolina/gazebosims/simmini3pro_ws/build/simmini3pro
+Invoked command in '/home/anacarolina/gazebosims/simmini3pro_ws/build/simmini3pro' returned '0': /usr/bin/cmake --install /home/anacarolina/gazebosims/simmini3pro_ws/build/simmini3pro

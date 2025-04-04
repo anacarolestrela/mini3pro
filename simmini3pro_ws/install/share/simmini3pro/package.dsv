@@ -1,0 +1,8 @@
+source;share/simmini3pro/hook/cmake_prefix_path.ps1
+source;share/simmini3pro/hook/cmake_prefix_path.dsv
+source;share/simmini3pro/hook/cmake_prefix_path.sh
+source;share/simmini3pro/local_setup.bash
+source;share/simmini3pro/local_setup.dsv
+source;share/simmini3pro/local_setup.ps1
+source;share/simmini3pro/local_setup.sh
+source;share/simmini3pro/local_setup.zsh
